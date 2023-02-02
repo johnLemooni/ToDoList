@@ -6,4 +6,4 @@ On this notes I'll write somethings to remember. <br>
 3 - Get my work for school done. <br>
 4 - Install Kali on my virtual machine. <br>
 5 - I don't like lists. <br>
-6 - If you found this note, contact me on my email: john.lemooni@gmail.com I have some tips for you, on how you can improve your hacking skills.
+6 - I shoud also install VS CODE on my amazing windows machine! <br>
